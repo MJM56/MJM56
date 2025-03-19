@@ -3,4 +3,4 @@
 ## About Me
 - Software Engineer
 - Open Source Contributor
-- Passionate about machine learning and data science
+- Passionate about machine learning and computer vision
